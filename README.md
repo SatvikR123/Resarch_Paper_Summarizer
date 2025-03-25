@@ -7,7 +7,7 @@
 
 ## 📂 Project Structure  
 
-```plaintext
+```
 📁 Research_Paper_Summarizer  
  ├── 📁 Papers/                 # Folder containing sample research papers  
  ├── 📁 fine-tuned-bart-lora/   # Model weights for fine-tuned BART  
@@ -16,7 +16,7 @@
  ├── 📄 createDataset.py        # Script for dataset processing  
  ├── 📄 extracted_data.csv      # Extracted text dataset  
  ├── 📄 README.md               # Project documentation 
-  
+```
   
 <h2>🧐 Features</h2>
 
